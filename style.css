@@ -1,0 +1,10 @@
+.holocaust-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.artifact {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
